@@ -315,6 +315,17 @@
             text-shadow: 0 0 10px rgba(0, 255, 159, 0.3);
         }
 
+        .header-left {
+            position: fixed;
+            top: 0;
+            left: 0;
+            padding: 30px 40px;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            pointer-events: none;
+        }
+
         .header-right {
             position: fixed;
             top: 0;
@@ -406,7 +417,7 @@
     </style>
 </head>
 <body>
-    <header>
+    <header class="header-left">
         <a href="https://ui-hub.com" class="logo-container">
             <div class="logo-box">U</div>
             <span class="logo-text">UI HUB</span>
