@@ -3,7 +3,7 @@
 A high-performance, interactive 3D Rubik's Cube simulation built for the **UI HUB** ecosystem. Features physics-based rotation, move history tracking, and automated solving logic.
 
 ## 🚀 Live Demo
-**[View Live Application](https://jainil224.github.io/3D-Rubiks-Cube/)**
+**[View Live Application](https://3d-rubiks-cube-ui-hub.vercel.app/)**
 
 ---
 
