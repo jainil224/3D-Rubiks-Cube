@@ -24,7 +24,7 @@ A high-performance, interactive 3D Rubik's Cube simulation built for the **UI HU
 - **UI Logic**: Pure DOM manipulation (No heavy frameworks required for the engine)
 - **Source**: React/TypeScript source included in the `react/` directory
 
----
+-----
 
 ## 📂 Repository Contents
 
